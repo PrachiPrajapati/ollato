@@ -1,0 +1,31 @@
+// Helper
+@import './helper/variables';
+@import './helper/fonts';
+@import './helper/mixins';
+@import './helper/common-layout';
+@import './helper/typography';
+@import './helper/scrollbar';
+//components
+@import './Components/language';
+@import './Components/authleftlogo';
+@import './Components/backarrow';
+@import './Components/otp-modal';
+@import './Components/toasty';
+@import './Components/header';
+@import './Components/titleheader';
+@import './Components/sidebar';
+@import './Components/datatablestyle';
+@import './Components/addnewform';
+@import './Components/datecalender';
+//views
+@import './views/auth/login';
+@import './views/auth/onetimepass';
+@import './views/auth/signup';
+@import './views/Dashboard/package';
+@import './views/Dashboard/dashboard';
+@import './views/Dashboard/test-process';
+@import './views/Dashboard/settings';
+@import './views/Dashboard/assessment';
+@import './views/Dashboard/counselling';
+
+
